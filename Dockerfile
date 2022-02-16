@@ -1,2 +1,2 @@
-FROM bansa2/webapp
-ADD ./pro1 /var/www/html/pro1
+FROM ubuntu
+ADD ./devopsq /var/www/html/devopsq
